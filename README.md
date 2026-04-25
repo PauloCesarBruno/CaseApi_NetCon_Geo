@@ -46,6 +46,8 @@ dotnet run --project CaseApi_NetCon_Geo.Api/CaseApi_NetCon_Geo.Api.csproj
 - Docker instalado
 - Docker em execução
 
+FAZER EXATAMENTE ASSIM NO POWERSHELL E PODE ABRIR a URL (http://localhost:8080/swagger/index.html) Abaixo Referenciada no Browser.
+
 ### 1. Gerar a imagem Docker
 
 Na raiz do projeto, onde está o arquivo Dockerfile, execute:
