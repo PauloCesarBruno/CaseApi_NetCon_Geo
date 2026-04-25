@@ -1,0 +1,14 @@
+<Solution>
+  <Folder Name="/API/">
+    <Project Path="CaseApi_NetCon_Geo.Api/CaseApi_NetCon_Geo.Api.csproj" />
+  </Folder>
+  <Folder Name="/Application/">
+    <Project Path="CaseApi_NetCon_Geo.Application/CaseApi_NetCon_Geo.Application.csproj" />
+  </Folder>
+  <Folder Name="/Domain/">
+    <Project Path="CaseApi_NetCon_Geo.Domain/CaseApi_NetCon_Geo.Domain.csproj" />
+  </Folder>
+  <Folder Name="/Infrastructure/">
+    <Project Path="CaseApi_NetCon_Geo.Infrastructure/CaseApi_NetCon_Geo.Infrastructure.csproj" />
+  </Folder>
+</Solution>

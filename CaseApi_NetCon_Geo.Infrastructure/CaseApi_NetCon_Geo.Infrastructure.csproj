@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CaseApi_NetCon_Geo.Application\CaseApi_NetCon_Geo.Application.csproj" />
+    <ProjectReference Include="..\CaseApi_NetCon_Geo.Domain\CaseApi_NetCon_Geo.Domain.csproj" />
+	  <FrameworkReference Include="Microsoft.AspNetCore.App" />
+  </ItemGroup>
+
+</Project>
