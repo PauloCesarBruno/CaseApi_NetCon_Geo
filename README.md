@@ -61,13 +61,6 @@ Testar o endpoint principal no Navegador (Exemplo):
 http://localhost:8080/swagger/index.html
 
 ==========================================================================================
-Parâmetros obrigatórios
-latitude → (-90 a 90)
-longitude → (-180 a 180)
-radius → (10 a 1000 metros)
-page → (>= 1)
-
-==========================================================================================
 
 Por Paulo Bruno 
 25/04/2026
