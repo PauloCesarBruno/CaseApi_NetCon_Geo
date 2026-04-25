@@ -58,7 +58,7 @@ Executar o container:
 
 
 Testar o endpoint principal no Navegador (Exemplo):
-http://localhost:8080/api/feasibility?latitude=-22.911000&longitude=-43.179000&radius=500&page=1
+http://localhost:8080/swagger/index.html
 
 ==========================================================================================
 Parâmetros obrigatórios
