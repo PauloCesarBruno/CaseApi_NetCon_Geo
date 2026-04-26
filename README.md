@@ -63,6 +63,12 @@ Testar o endpoint principal no Navegador (Exemplo):
 http://localhost:8080/swagger/index.html
 
 ==========================================================================================
+ATENÇÃO:
+========
+Senha no EndPoint do JWT no suagger "Fixo"
+admin
+123
+==========================================================================================
 
 Por Paulo Bruno 
 25/04/2026
