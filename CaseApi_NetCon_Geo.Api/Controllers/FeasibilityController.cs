@@ -1,11 +1,13 @@
 ﻿using CaseApi_NetCon_Geo.Application.DTOs;
 using CaseApi_NetCon_Geo.Application.Services;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Authorization;
 
 namespace CaseApi_NetCon_Geo.Api.Controllers;
 
 [ApiController]
 [Route("api/feasibility")]
+[Authorize]
 public class FeasibilityController : ControllerBase
 {
     private readonly FeasibilityService _service;

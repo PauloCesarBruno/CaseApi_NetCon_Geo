@@ -11,4 +11,7 @@
   <Folder Name="/Infrastructure/">
     <Project Path="CaseApi_NetCon_Geo.Infrastructure/CaseApi_NetCon_Geo.Infrastructure.csproj" />
   </Folder>
+  <Folder Name="/Tests/">
+    <Project Path="CaseApi_NetCon_Geo.Tests/CaseApi_NetCon_Geo.Tests.csproj" Id="2e2bf713-72a9-4508-ae09-46b1bd784a0c" />
+  </Folder>
 </Solution>
