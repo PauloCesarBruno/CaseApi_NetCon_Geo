@@ -12,6 +12,7 @@ O projeto segue uma estrutura em camadas, com separação de responsabilidades:
 - Application
 - Domain
 - Infrastructure
+- Tests
 
 O domínio é isolado e não possui dependência de outras camadas.
 
